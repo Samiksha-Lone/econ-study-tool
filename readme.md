@@ -5,6 +5,11 @@ The app helps students revise **oligopoly** (kinked demand curve and game theory
 
 ---
 
+## Live Demo
+
+Streamlit App: https://econ-study-tool.streamlit.app/
+
+
 ## Demo Video
 
 - Short demo recording (Google Drive): https://drive.google.com/file/d/1_o2uV85faGN33AWlpKAawCPiLPYrOxqD/view?usp=sharing
