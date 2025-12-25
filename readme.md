@@ -5,9 +5,9 @@ The app helps students revise **oligopoly** (kinked demand curve and game theory
 
 ---
 
-## Live Demo
+## Demo Video
 
-- Streamlit App: https://YOUR_DEMO_URL
+- Short demo recording (Google Drive): https://drive.google.com/file/d/1_o2uV85faGN33AWlpKAawCPiLPYrOxqD/view?usp=sharing
 
 > If the teacher–student chat shows a **quota error**, plug in your own OpenAI API key with credits and it will work normally. My free-tier quota is currently exhausted. [web:26][web:28]
 
