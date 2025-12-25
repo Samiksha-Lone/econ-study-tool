@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI as openai
+from openai import OpenAI 
 import os
 
 st.set_page_config(page_title="Oligopoly Study Tool", layout="wide")
